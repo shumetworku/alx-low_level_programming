@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * use printf
- * The return will be (o)
+ * main - The main function
+ * Return: Always 0 (true)
  */
 int main(void)
 {	
-	printf("with proper grammar, but the outcome is a piece of art,\n");
+	printf("\"with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
