@@ -4,10 +4,11 @@
 
 /**
  * main - prints the number
+ *
  * Return: Always 0
  */
 
-int mani(void)
+int main(void)
 {
 	int n;
 
