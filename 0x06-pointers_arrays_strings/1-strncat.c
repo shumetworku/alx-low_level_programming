@@ -4,6 +4,7 @@
  * strncat - concatenates n bytes of two string
  * @dest: pointer destination
  * @src: point of bytes
+ * @n: number of char to be copied
  * Return: void
  */
 char *_strncat(char *dest, char *src, int n)
