@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strncat - concatenates n bytes of two string
+ * _strncat - concatenates n bytes of two string
  * @dest: pointer destination
  * @src: point of bytes
  * @n: number of char to be copied
