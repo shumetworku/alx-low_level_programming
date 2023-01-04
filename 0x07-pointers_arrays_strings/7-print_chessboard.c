@@ -16,8 +16,7 @@ void print_chassboard(char(a*)[8])
 		{
 			for (j = 0; j < 8; j++)
 				_putchar(a[i][j]);
-			_putchar('\n');
 		}
 	}
-	return (0);
+	_putchar('\n')
 }
